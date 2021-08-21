@@ -1,6 +1,6 @@
 # contact_list_demo
 
-A new Flutter application.
+A new Flutter application to show application of contact list selection for Android device.
 
 ## Getting Started
 
